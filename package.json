@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/repellat-minus-nisi-dignissimos",
-  "version": "10.27.318",
+  "version": "10.27.319",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -71,5 +71,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/repellat-minus-nisi-dignissimos/issues"
   },
-  "packageManager": "yarn@4.9.0"
+  "packageManager": "yarn@4.9.1"
 }
